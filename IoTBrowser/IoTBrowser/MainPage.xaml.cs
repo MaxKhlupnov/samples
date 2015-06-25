@@ -66,7 +66,7 @@ namespace IoTBrowser
 
         private void Go_IoTPortal_Click(object sender, RoutedEventArgs e)
         {
-            Web_Address.Text = "https://devx.windows-int.com/en-us/iot";
+            Web_Address.Text = "http://news.microsoft.com/ru-ru/features/smart-office-microsoft-russia/";
             DoWebNavigate();
         }
 
